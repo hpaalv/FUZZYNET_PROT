@@ -1,5 +1,5 @@
 # ==============================================================
-# app_gui.py  –  exibe ambos os gráficos (ajuste de broadcasting)
+# app_gui.py  
 # ==============================================================
 
 import contextlib, io, pathlib, sys, threading, traceback
