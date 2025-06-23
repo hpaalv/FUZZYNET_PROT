@@ -1,7 +1,5 @@
 # ==============================================================
 # fuzzynet_pipeline.py  –  v9
-#  ▸ Inclui plot_comparative() dentro do próprio módulo
-#  ▸ Mantém todas as correções de dtype, detach, etc.
 # ==============================================================
 
 from __future__ import annotations
